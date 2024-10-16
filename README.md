@@ -8,14 +8,21 @@
 </div>
 
 #### Table of Contents
+* [Add extension](#add-extension)
 * [Run extension](#run-extension)
 * [Local development](#local-development)
 
 ----
 
+# Add extension
+
+Click on this [link](https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd) to add the extension from the Chrome Web Store.
+
+----
+
 # Run extension
 
-If you would like to run the extension manually while we wait for approval from the Chrome Web Store, you can follow these instructions:
+If you would like to run the extension manually you can follow these instructions:
 
 1. Download and extract [chatgpt-scroller-0.1.0](https://github.com/samimsu/chatgpt-scroller/blob/master/zips/chatgpt-scroller-0.1.0.zip) from zips/chatgpt-scroller-0.1.0.zip. You could also just clone this repository.
 2. Go to chrome://extensions from your chrome browser address bar
