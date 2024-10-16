@@ -15,7 +15,7 @@
 
 #### Table of Contents
 * [Add extension](#add-extension)
-* [Run extension](#run-extension)
+* [Run extension from repository](#run-extension-from-repository)
 * [Local development](#local-development)
 
 ----
@@ -26,7 +26,7 @@ Click on this [link](https://chromewebstore.google.com/detail/chatgpt-scroller/p
 
 ----
 
-# Run extension
+# Run extension from repository
 
 If you would like to run the extension manually you can follow these instructions:
 
