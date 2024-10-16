@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab2135ef-f5f4-4408-946a-3423a3dd5b5a" width="128" height="128" alt="ChatGPT Scroller Icon" />
-  <h1>ChatGPT Scroller</h1>
+  <a href="https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd">
+      <img src="https://github.com/user-attachments/assets/ab2135ef-f5f4-4408-946a-3423a3dd5b5a" width="128" height="128" alt="ChatGPT Scroller Icon" />
+  </a>
+  <h1>
+    <a href="https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd">
+      ChatGPT Scroller
+    </a>
+  </h1>
   <div>A chrome extension to make navigating ChatGPT conversations easier</div>
   <br />
   
