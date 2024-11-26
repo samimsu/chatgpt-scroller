@@ -31,7 +31,7 @@ Click on this [link](https://chromewebstore.google.com/detail/chatgpt-scroller/p
 
 If you would like to run the extension manually you can follow these instructions:
 
-1. Download and extract [chatgpt-scroller-0.2.0](https://github.com/samimsu/chatgpt-scroller/blob/master/zips/chatgpt-scroller-0.2.0.zip) from zips/chatgpt-scroller-0.2.0.zip or clone this repository.
+1. Download and extract the latest zip file from [zips/](https://github.com/samimsu/chatgpt-scroller/blob/master/zips) or clone this repository.
 2. Go to chrome://extensions from your chrome browser address bar
 3. Turn on "Developer mode"
 4. Click on "Load unpacked"

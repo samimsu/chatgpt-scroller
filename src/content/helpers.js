@@ -1,9 +1,12 @@
 export function getMessagesContainerElement() {
-  const messagesContainerSelector = '[class^="react-scroll-to-bottom"]';
+  const messagesContainerSelector =
+    '[class^="react-scroll-to-bottom"], [data-testid="screen-thread"]';
   // Find the scrollable container (matches 'react-scroll-to-bottom' class with overflowY auto)
   const messagesContainerElement = Array.from(
     document.querySelectorAll(messagesContainerSelector)
   ).filter((el) => window.getComputedStyle(el).overflowY === "auto")[0];
+
+  console.log("messagesContainerElement", messagesContainerElement);
 
   return messagesContainerElement;
 }
