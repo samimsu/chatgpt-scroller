@@ -7,15 +7,15 @@
       ChatGPT Scroller
     </a>
   </h1>
-  <div>A chrome extension to make navigating ChatGPT conversations easier</div>
-  <br />
 </div>
-  
+
 ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/pelmadpbepelidfneidllbkmepmdpckd)
 ![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/pelmadpbepelidfneidllbkmepmdpckd)
 ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/pelmadpbepelidfneidllbkmepmdpckd)
 
 <div align="center">
+  <div>A chrome extension to make navigating ChatGPT conversations easier</div>
+  <br />
   <img src="https://github.com/user-attachments/assets/947509b5-e2b2-4eb3-a7d9-4555e3903fa6" />
 </div>
 
