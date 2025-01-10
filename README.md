@@ -9,23 +9,29 @@
   </h1>
   <div>A chrome extension to make navigating ChatGPT conversations easier</div>
   <br />
+</div>
   
+![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/pelmadpbepelidfneidllbkmepmdpckd)
+![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/pelmadpbepelidfneidllbkmepmdpckd)
+![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/pelmadpbepelidfneidllbkmepmdpckd)
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/947509b5-e2b2-4eb3-a7d9-4555e3903fa6" />
 </div>
 
 #### Table of Contents
 
-* [Add extension](#add-extension)
-* [Run extension from repository](#run-extension-from-repository)
-* [Local development](#local-development)
+- [Add extension](#add-extension)
+- [Run extension from repository](#run-extension-from-repository)
+- [Local development](#local-development)
 
-----
+---
 
 # Add extension
 
 Click on this [link](https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd) to add the extension from the Chrome Web Store.
 
-----
+---
 
 # Run extension from repository
 
@@ -40,7 +46,7 @@ If you would like to run the extension manually you can follow these instruction
 7. You should now see the navigation buttons (refresh the page if you don't)
 8. Click on the navigation buttons to go to different parts of the conversation
 
-----
+---
 
 # Local development
 
