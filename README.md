@@ -9,9 +9,9 @@
   </h1>
 </div>
 
-![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/pelmadpbepelidfneidllbkmepmdpckd)
-![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/pelmadpbepelidfneidllbkmepmdpckd)
-![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/pelmadpbepelidfneidllbkmepmdpckd)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/pelmadpbepelidfneidllbkmepmdpckd)](https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd)
+[![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/pelmadpbepelidfneidllbkmepmdpckd)](https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/pelmadpbepelidfneidllbkmepmdpckd)](https://chromewebstore.google.com/detail/chatgpt-scroller/pelmadpbepelidfneidllbkmepmdpckd)
 
 <div align="center">
   <div>A chrome extension to make navigating ChatGPT conversations easier</div>
