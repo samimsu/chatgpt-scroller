@@ -8,7 +8,30 @@ export function getMessagesContainerElement() {
 
   console.log("messagesContainerElement", messagesContainerElement);
 
+  if (!messagesContainerElement) {
+    const userMessagesSelector = '[data-message-author-role="user"]';
+    const firstUserMessageElement =
+      document.querySelector(userMessagesSelector);
+    const scrollableParent = findNextScrollableParent(firstUserMessageElement);
+
+    return scrollableParent;
+  }
+
   return messagesContainerElement;
+}
+
+export function findNextScrollableParent(element) {
+  let currentElement = element.parentElement;
+
+  while (currentElement) {
+    const style = window.getComputedStyle(currentElement);
+    if (style.overflowY === "auto" || style.overflowY === "scroll") {
+      return currentElement;
+    }
+    currentElement = currentElement.parentElement;
+  }
+
+  return null;
 }
 
 export function getUserMessageElements() {
